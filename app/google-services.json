@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "618893419460",
+    "firebase_url": "https://phonestate-5dc54.firebaseio.com",
+    "project_id": "phonestate-5dc54",
+    "storage_bucket": "phonestate-5dc54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618893419460:android:1b4240efd6a9e148cffa91",
+        "android_client_info": {
+          "package_name": "com.example.phonecallstatus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618893419460-d89ckdjmvgjg7qs348nd7m0c6hn1ufmd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.phonecallstatus",
+            "certificate_hash": "01f4db33aea1864034c6b1d0dc4cd1b165cd962b"
+          }
+        },
+        {
+          "client_id": "618893419460-0vkfku88vs3dkao5rnbibb3026sss1mt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUqcyddGd-gVthpWlHKvAe5HBMZWIvdp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618893419460-0vkfku88vs3dkao5rnbibb3026sss1mt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
